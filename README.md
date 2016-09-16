@@ -1,1 +1,1 @@
-Boilerplate for hosting a static website on Google App Engine (python)
+A boilerplate application for building static website on Google App Engine (python)
