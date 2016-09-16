@@ -1,4 +1,4 @@
-application: static-webapp # cf. id de l'application acquise sur appengine.google.com
+application: static-webapp
 version: 1
 runtime: python27
 api_version: 1
